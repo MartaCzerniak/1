@@ -2,7 +2,7 @@
   "name": "image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://martaczerniak.github.io/1/",
+  "homepage": "https://martaczerniak.github.io/Image-Finder---React-App-with-API/",
   "dependencies": {
     "@emotion/css": "^11.10.5",
     "@emotion/react": "^11.10.5",
